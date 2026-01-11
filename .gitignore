@@ -1,0 +1,25 @@
+# Scala/sbt projects
+**/target/
+**/project/target/
+**/project/project/
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+**/*.iws
+**/.idea_modules/
+
+# Scala
+**/*.class
+**/*.log
+
+# Build Server Protocol
+**/.bsp/
+
+# macOS
+.DS_Store
+
+# Metals (Scala language server)
+**/.metals/
+**/.bloop/
+**/metals.sbt
