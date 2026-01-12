@@ -14,3 +14,7 @@ Below are steps to setup a Scala project in IntelliI IDE:
 ## Scala Project Example
 
 The first example for Scala is in [scalatest](./scalatest/). 
+
+## Sentiment Classification
+
+This example is described in more details in [SentimentClassifier-README](./scalatest/SentimentClassifier-README.md)
