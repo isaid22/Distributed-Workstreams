@@ -17,4 +17,4 @@ The first example for Scala is in [scalatest](./scalatest/).
 
 ## Sentiment Classification
 
-This example is described in more details in [SentimentClassifier-README](./scalatest/SentimentClassifier-README.md)
+This example is described in more details in [SentimentClassifier-README](SentimentClassifier-README.md)

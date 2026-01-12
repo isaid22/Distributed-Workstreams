@@ -68,7 +68,7 @@ object SentimentAnalysis {
     val result = model.transform(reviews)
 
     println("\n=== Final Features (numerical representation of text) ===")
-    result.select("text", "label", "features").show(5, truncate = false)
+    result.select("text", "label", "raw_features", "features").show(7, truncate = false)
 
     // Analyze word counts
     println("\n=== Statistics ===")
